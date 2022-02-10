@@ -81,7 +81,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://t.me/GalaxiaUpdateChannel"
+                        "🌐 Source Code", url="https://t.me/Gishankrishka1"
                     )
                 ],
             ]
