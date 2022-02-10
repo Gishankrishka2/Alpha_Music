@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/GalaxiaMusicBot"><img src="https://telegra.ph/file/f745e42dd9bc29a368f2d.jpg"></a></p>
+<p align="center"><a href="https://t.me/GalaxiaMusicBot"><img src="https://telegra.ph/file/046c3f42857bd52095b20.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
