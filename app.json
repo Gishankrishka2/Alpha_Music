@@ -1,7 +1,7 @@
 {
-    "name": "Galaxia-Music-Bot",
+    "name": "⚡️┊𝙰𝙻𝙿𝙷𝙰 么 ™©️ Music Player ⚡️",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/d0a037b885b22ca53260b.jpg",
+    "logo": "https://telegra.ph/file/fd4958b7cd7eff35343ac.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
@@ -9,8 +9,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/GalaxiaUpdateChannel",
-    "repository": "https://github.com/DarkSkull93/Galaxia",
-    "success_url": "https://t.me/Dark_Sheha",
+    "repository": "https://github.com/GishanKrishka2/Alpha_Music",
+    "success_url": "https://t.me/Gishankrishka1_cloud",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
